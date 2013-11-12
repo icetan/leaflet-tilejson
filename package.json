@@ -24,7 +24,6 @@
     "url": "https://github.com/kartena/leaflet-tilejson/issues"
   },
   "dependencies": {
-    "leaflet": "~0.6.4",
     "proj4leaflet": "~0.6.0"
   }
 }
